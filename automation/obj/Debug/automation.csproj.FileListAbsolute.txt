@@ -1,0 +1,17 @@
+E:\project\Qaautomaion\automation\automation\bin\Debug\automation.dll
+E:\project\Qaautomaion\automation\automation\bin\Debug\automation.pdb
+E:\project\Qaautomaion\automation\automation\bin\Debug\Excel.dll
+E:\project\Qaautomaion\automation\automation\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\project\Qaautomaion\automation\automation\bin\Debug\nunit.framework.dll
+E:\project\Qaautomaion\automation\automation\bin\Debug\RelevantCodes.ExtentReports.dll
+E:\project\Qaautomaion\automation\automation\bin\Debug\WebDriver.dll
+E:\project\Qaautomaion\automation\automation\bin\Debug\WebDriver.Support.dll
+E:\project\Qaautomaion\automation\automation\bin\Debug\Excel.pdb
+E:\project\Qaautomaion\automation\automation\bin\Debug\nunit.framework.xml
+E:\project\Qaautomaion\automation\automation\bin\Debug\WebDriver.xml
+E:\project\Qaautomaion\automation\automation\bin\Debug\WebDriver.Support.xml
+E:\project\Qaautomaion\automation\automation\obj\Debug\automation.csprojResolveAssemblyReference.cache
+E:\project\Qaautomaion\automation\automation\obj\Debug\automation.Config.Resource.resources
+E:\project\Qaautomaion\automation\automation\obj\Debug\automation.csproj.GenerateResource.Cache
+E:\project\Qaautomaion\automation\automation\obj\Debug\automation.dll
+E:\project\Qaautomaion\automation\automation\obj\Debug\automation.pdb
