@@ -31,7 +31,7 @@ namespace automation.Global
         public void Inititalise()
         {
 
-            // advisasble to read this documentation before proceeding http://extentreports.relevantcodes.com/net/
+          
             switch (Browser)
             {
                 case 1:
